@@ -35,6 +35,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [vidIQ](https://vidiq.com/) — YouTube channel growth and analytics tool.
 - [Canva](https://www.canva.com/youtube/) — Graphics and thumbnails creation for YouTube.
 - [StreamYard](https://streamyard.com/) — Browser-based live streaming tool.
+- [CreatorSkills](https://creatorskills.co) — Marketplace of 30+ downloadable AI skills for YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ## YouTube SEO & Analytics
 
