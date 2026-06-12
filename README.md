@@ -41,6 +41,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Social Blade](https://socialblade.com/) — Analytics and statistics for YouTube channels.
 - [Noxinfluencer](https://www.noxinfluencer.com/) — Influencer marketing and analytics platform for YouTube.
 - [Keyword Tool for YouTube](https://keywordtool.io/youtube) — Discover keywords and tags for YouTube videos.
+- [ChannelGuard](https://theoperatorai.io/tool/channelguard/) — Free channel risk scanner that checks for patterns YouTube flags as reused or low-effort content.
 
 ## Video Editing Software
 
