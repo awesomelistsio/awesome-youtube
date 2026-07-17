@@ -41,6 +41,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Social Blade](https://socialblade.com/) — Analytics and statistics for YouTube channels.
 - [Noxinfluencer](https://www.noxinfluencer.com/) — Influencer marketing and analytics platform for YouTube.
 - [Keyword Tool for YouTube](https://keywordtool.io/youtube) — Discover keywords and tags for YouTube videos.
+- [Open Channel Stats](https://openchannelstats.com/) — Real YouTube channels' owner analytics — retention, CTR, traffic sources, forecasts — published by their owners, not estimated; connect yours free to compare. Daily refresh.
 
 ## Video Editing Software
 
