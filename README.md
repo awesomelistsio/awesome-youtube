@@ -35,6 +35,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [vidIQ](https://vidiq.com/) — YouTube channel growth and analytics tool.
 - [Canva](https://www.canva.com/youtube/) — Graphics and thumbnails creation for YouTube.
 - [StreamYard](https://streamyard.com/) — Browser-based live streaming tool.
+- [videos.social](https://videos.social/?utm_source=brandonhimpfen-awesome-youtube&utm_medium=directory&utm_campaign=listing-wave-d) — Turn blogs, PDFs, and prompts into editable faceless videos for YouTube. Start free — 1 render included. Packs from $10. 1 credit = 1 render.
 
 ## YouTube SEO & Analytics
 
