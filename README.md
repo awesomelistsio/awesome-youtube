@@ -1,4 +1,4 @@
-# Awesome YouTube [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome YouTube [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1021711169.svg)](https://doi.org/10.5281/zenodo.19682102)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -68,9 +68,9 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome Social Media](https://github.com/awesomelistsio/awesome-social-media)**
-- **[Awesome Content Marketing](https://github.com/awesomelistsio/awesome-content-marketing)**
-- **[Awesome Podcasting Tools](https://github.com/awesomelistsio/awesome-podcasting-tools)**
+- **[Awesome Social Media](https://github.com/brandonhimpfen/awesome-social-media)**
+- **[Awesome Content Marketing](https://github.com/brandonhimpfen/awesome-content-marketing)**
+- **[Awesome Podcasting Tools](https://github.com/brandonhimpfen/awesome-podcasting-tools)**
   
 ## Contribute
 
